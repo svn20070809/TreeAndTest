@@ -3,8 +3,6 @@ public class Main {
      //   test_1();
       // Добавил комментарий
       var x=1;
-      // Добавил кеще строку
-      var y=2;
     }
     // https://javascopes.com/java-binary-tree-b6863141/
 
