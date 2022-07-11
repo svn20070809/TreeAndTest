@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
      //   test_1();
+      // Добавил комментарий
+      var x=1;
     }
     // https://javascopes.com/java-binary-tree-b6863141/
 
