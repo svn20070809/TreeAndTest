@@ -4,6 +4,7 @@ public class Main {
       // Добавил комментарий
       var x=1;
       var y=2;
+        y += x;
     }
     // https://javascopes.com/java-binary-tree-b6863141/
 
